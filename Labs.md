@@ -132,7 +132,7 @@ Legenda:
 1. Gawin Mateusz
 1. Gołuński Radosław
 1. Jabłoński Jakub
-1. Jędzierowska Magdalena
+1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/TAR)
 1. Kalinowski Damian
 1. Katovich Darya
 1. [Kawa Piotr](https://gitlab.com/aurustius)
